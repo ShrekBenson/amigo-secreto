@@ -1,3 +1,3 @@
-**Sortear amigo secreto**
+***Sortear amigo secreto***.
 
 Es un pequeño proyecto para la demostración de habilidades básicas en lógica de programación, esta aplicación consiste en ingresar el nombre de un amigo a traves de un campo de texto y presionar un boton con el texto "Añadir", con el fin de agregarla a una lista visible; posteriormente, una vez que se han ingresado todos los amigos deseados se debe presionar el botón "sortear amigo" para elegir aleatoriamente un amigo agregado a la lista visible y presentarlo como resultado mediante una linea de texto verde en la pantalla, se debe recargar la pagina para limpiar los resultados obtenidos.
